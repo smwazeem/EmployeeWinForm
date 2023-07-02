@@ -1,0 +1,13 @@
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddEditEmployeeForm.resources
+C:\Development\DatabaseFirstDemo1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeDetailsForm.resources
